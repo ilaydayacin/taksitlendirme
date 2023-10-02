@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\bin\Debug\taksitlendirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\bin\Debug\taksitlendirme.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\bin\Debug\taksitlendirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\taksitlendirme\taksitlendirme\obj\Debug\taksitlendirme.pdb
